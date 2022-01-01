@@ -1,3 +1,4 @@
+import '../css/Hello.css';
 function Hello() {
   return (
     <div className="Hello">
