@@ -1,4 +1,4 @@
-import Hello from './components/Hello';
+import Hello from './components/Hello'
 function App() {
   return (
     <div className="App">
@@ -7,4 +7,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
